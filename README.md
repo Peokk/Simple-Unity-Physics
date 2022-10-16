@@ -1,4 +1,4 @@
-## One of my first unity projects which made me understand how the rigidbody component works.
+## One of my first Unity projects which made me understand how the rigidbody component works.
 ## Controlls
 `W`, `A`, `S`, `D`, `LPM`
 
